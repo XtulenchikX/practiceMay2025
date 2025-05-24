@@ -1,0 +1,39 @@
+{
+  "libraries": [
+    {
+      "imageURL": "https://pr-cbs.ru/documents/20126/2895587/DSC_0092.jpg/27b6e4bb-2955-dbd1-102a-4eda7f71624a?t=1632311553315",
+      "libName": "Центральная районная библиотека им. А. С. Пушкина",
+      "timeOpen": "",
+      "libLoc": "Санкт-Петербург, Большой пр. П.С., д. 73/36",
+      "libId": 1
+    },
+    {
+      "imageURL": "https://pr-cbs.ru/documents/20126/3313553/IMG_1446.jpg/99dc0e39-5b6c-5e6b-cc3a-4f912e32966e?t=1637911236426",
+      "libName": "Центральная районная детская библиотека",
+      "timeOpen": "",
+      "libLoc": "Санкт-Петербург, Большой пр. П.С., д. 65 (2-й этаж)",
+      "libId": 2
+    },
+    {
+      "imageURL": "https://pr-cbs.ru/documents/20126/2899193/IMG_9804.JPG/a1002fd0-c4ed-69fe-681f-7fb02aedf097?t=1632313601521",
+      "libName": "Библиотека им. В. И. Ленина",
+      "timeOpen": "",
+      "libLoc": "Санкт-Петербург, ул. Воскова, д. 2",
+      "libId": 3
+    },
+    {
+      "imageURL": "https://pr-cbs.ru/documents/20126/2899196/2.jpg/56b57e51-b91c-bd93-b0d8-f3a92175ea62?t=1665495039521",
+      "libName": "Библиотека на Карповке",
+      "timeOpen": "",
+      "libLoc": "Санкт-Петербург, наб. реки Карповки, д. 28​​",
+      "libId": 4
+    },
+    {
+      "imageURL": "https://pr-cbs.ru/documents/20126/2899202/89-g9Reneuw.jpg/64112194-8f7f-9903-1293-e2ef5322992d?t=1632388839670",
+      "libName": "3-я районная библиотека",
+      "timeOpen": "",
+      "libLoc": "Санкт-Петербург, Троицкая пл. П.С., 1",
+      "libId": 5
+    }
+  ]
+}

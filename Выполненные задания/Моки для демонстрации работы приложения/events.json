@@ -1,0 +1,78 @@
+{
+"events":
+  [
+    {
+      "imageURL": "https://ucare.timepad.ru/c2dd7ff6-0b55-4a33-8907-e3d8f8cb7fde/-/preview/1280x800/-/format/jpg/poster_event_3326841.jpg",
+      "eventName": "В поисках додо",
+      "dateTime": "27 мая 17:30 — 18:30",
+      "eventLoc": "Санкт-Петербург, Большой пр. П.С., 65 (2-й этаж)",
+      "eventType": "Для детей",
+      "eventId": 1,
+      "libId": 2
+    }, {
+      "imageURL": "https://ucare.timepad.ru/8efa0350-c5bc-4e4d-8052-b621f60a0e1b/-/preview/1280x800/-/format/jpg/poster_event_3361200.jpg",
+      "eventName": "Диво дивное",
+      "dateTime": "19 июня 17:30 — 18:30",
+      "eventLoc": "Санкт-Петербург, Большой пр. П.С., 65 (2-й этаж)",
+      "eventType": "Выставка",
+      "eventId": 2,
+      "libId": 2
+    }, {
+      "imageURL": "https://ucare.timepad.ru/e9d24a88-3cfa-4c30-a629-aea30347c84c/-/preview/1280x800/-/format/jpg/poster_event_3361770.jpg",
+      "eventName": "Летняя стихотворная феерия",
+      "dateTime": "18 июня 17:30 — 18:30",
+      "eventLoc": "Санкт-Петербург, Большой пр. П.С., 65 (2-й этаж)",
+      "eventType": "Для детей",
+      "eventId": 3,
+      "libId": 2
+    }, {
+      "imageURL": "https://ucare.timepad.ru/40a64825-4213-48c2-93f4-67470e770411/-/preview/1280x800/-/format/jpg/poster_event_3350885.jpg",
+      "eventName": "Творческая мастерская «Многоликий»",
+      "dateTime": "27 мая 17:00 — 18:00",
+      "eventLoc": "Санкт-Петербург, Каменноостровский пр., 36/73",
+      "eventType": "Обучающее занятие",
+      "eventId": 4,
+      "libId": 1
+    }, {
+      "imageURL": "https://ucare.timepad.ru/eb0e6b68-8e32-4f7f-9e82-dd0e34daa3e3/-/preview/1280x800/-/format/jpg/poster_event_3381613.jpg",
+      "eventName": "В гости к Крылову в Летний сад",
+      "dateTime": "11 июня 15:00 — 17:00",
+      "eventLoc": "Санкт-Петербург, Летний сад",
+      "eventType": "Для детей",
+      "eventId": 5,
+      "libId": 3
+    }, {
+      "imageURL": "https://ucare.timepad.ru/597f625f-22a5-4e64-a691-e552b9961736/-/preview/1280x800/-/format/jpg/poster_event_3382779.jpg",
+      "eventName": "Женя, Женечка и «Катюша»",
+      "dateTime": "22 июня 16:00 — 17:30",
+      "eventLoc": "Санкт-Петербург, ул. Воскова, 2",
+      "eventType": "Кинопоказ",
+      "eventId": 6,
+      "libId": 3
+    }, {
+      "imageURL": "https://ucare.timepad.ru/5ee8a7ff-5238-4eef-a016-87d318262c15/-/preview/1280x800/-/format/jpg/poster_event_3336304.jpg",
+      "eventName": "Мастер-класс по-арт-терапии «Волшебный сад»",
+      "dateTime": "24 мая 14:00 — 17:00",
+      "eventLoc": "Санкт-Петербург, наб. р. Карповки, 28",
+      "eventType": "Обучающее занятие",
+      "eventId": 7,
+      "libId": 4
+    }, {
+      "imageURL": "https://ucare.timepad.ru/e83a5699-7ce4-4808-aabf-871c16773cec/-/preview/1280x800/-/format/jpg/poster_event_3381596.jpg",
+      "eventName": "«Здесь красный крест и белые халаты…»",
+      "dateTime": "22 июня 14:00 — 15:30",
+      "eventLoc": "Санкт-Петербург, ул. Воскова, 2",
+      "eventType": "Экскурсия",
+      "eventId": 8,
+      "libId": 3
+    }, {
+      "imageURL": "https://ucare.timepad.ru/db69f23a-fbdf-44c0-adda-de58c6986af8/-/preview/1280x800/-/format/jpg/poster_event_3379514.jpg",
+      "eventName": "Тренинг «О прокрастинации и смысле жизни»",
+      "dateTime": "17 июня 18:30 — 20:30",
+      "eventLoc": "Санкт-Петербург, Наб. р. Карповки, д. 28",
+      "eventType": "Обучающее занятие",
+      "eventId": 9,
+      "libId": 4
+    }
+  ]
+}
